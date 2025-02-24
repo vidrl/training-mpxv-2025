@@ -37,7 +37,7 @@ entries:
       output: web, pdf
 
     - title: Day 1
-      url: /day.html
+      url: /day1.html
       output: web, pdf
 
     - title: Day 2

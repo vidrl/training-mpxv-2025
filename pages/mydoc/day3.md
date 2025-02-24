@@ -1,10 +1,10 @@
 ---
-title: Training Schedule
+title: Day 2 - [Title]
 tags: [formatting]
-keywords: schedule
-summary: "Schedule for the training - all information, slides and data will be linked here."
+keywords: day1
+summary: "Resources for Day 2 training."
 sidebar: mydoc_sidebar
-permalink: schedule.html
+permalink: day2.html
 folder: mydoc
 ---
 
