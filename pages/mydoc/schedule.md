@@ -1,6 +1,6 @@
 ---
 title: Training Schedule
-tags: [formatting]
+tags: 
 keywords: schedule
 summary: "Schedule for the training - all information, slides and data will be linked here."
 sidebar: mydoc_sidebar
