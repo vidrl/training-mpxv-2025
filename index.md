@@ -4,6 +4,7 @@ keywords: homepage
 tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
+toc: false
 # summary: Overview of the workshop and materials.
 ---
 
