@@ -32,20 +32,28 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Schedule
+    - title: Schedule Overview
       url: /schedule.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Day 1
+      url: /day.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Day 2
+      url: /day2.html
       output: web, pdf
 
-    - title: Support
-      url: /mydoc_support.html
+    - title: Day 3
+      url: /day3.html
+      output: web, pdf
+
+    - title: Day 4
+      url: /day4.html
+      output: web, pdf
+
+    - title: Day 5
+      url: /day5.html
       output: web, pdf
 
   - title: Release Notes
