@@ -1,6 +1,6 @@
 ---
 title: Day 4 - [Title]
-tags: [formatting]
+tags: 
 keywords: day4
 summary: "Resources for Day 4 training."
 sidebar: mydoc_sidebar
