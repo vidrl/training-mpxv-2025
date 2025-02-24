@@ -1,5 +1,5 @@
 ---
-title: Day 1 - [Title]
+title: Day 4 - [Title]
 tags: [formatting]
 keywords: day4
 summary: "Resources for Day 4 training."
