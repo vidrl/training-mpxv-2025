@@ -18,8 +18,8 @@ margin-bottom: 10px;
 }
 </style>
 
-Location: [Location]
-Information: [Information]
+- Location: [Location]
+- Information: [Information]
 
 | Star  | End   | Activities | Speaker | Pres |
 |-------|-------|------------|---------|------|
