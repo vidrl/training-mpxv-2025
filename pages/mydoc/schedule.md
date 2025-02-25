@@ -2,7 +2,6 @@
 title: Training Schedule
 tags: 
 keywords: schedule
-summary: "Schedule for the training - all information, slides and data will be linked here."
 sidebar: mydoc_sidebar
 permalink: schedule.html
 folder: mydoc
