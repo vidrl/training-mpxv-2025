@@ -18,6 +18,8 @@ margin-bottom: 10px;
 }
 </style>
 
+---
+
 - Location: [Location]
 - Information: [Information]
 
