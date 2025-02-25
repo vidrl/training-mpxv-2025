@@ -18,12 +18,6 @@ margin-bottom: 10px;
 }
 </style>
 
-code chunk
-
-```
-python -m pip install pandas
-```
-
 ## 🧪 Day 1 - Title
 
 | Star  | End   | Activities | Speaker | Pres |

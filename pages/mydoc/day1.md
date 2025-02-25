@@ -21,6 +21,8 @@ margin-bottom: 10px;
 - Location: [Location]
 - Information: [Information]
 
+---
+
 | Star  | End   | Activities | Speaker | Pres |
 |-------|-------|------------|---------|------|
 | 09:00 | 09:10 | Title | Name |     |
