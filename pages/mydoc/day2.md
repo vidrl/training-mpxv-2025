@@ -1,5 +1,5 @@
 ---
-title: Day 1 - [Title]
+title: Day 2 - [Title]
 tags: 
 keywords: day2
 summary: "Resources for Day 2 training."
