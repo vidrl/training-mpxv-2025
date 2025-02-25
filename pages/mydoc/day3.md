@@ -2,10 +2,10 @@
 title: 🖥️ Day 3 - [Title]
 tags: 
 keywords: day3
-summary: "Resources for Day 3 training."
 sidebar: mydoc_sidebar
 permalink: day3.html
 folder: mydoc
+toc: false
 ---
 
 <style>

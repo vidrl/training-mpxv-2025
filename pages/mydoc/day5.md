@@ -2,10 +2,10 @@
 title: 🦠 Day 5 - Title
 tags: 
 keywords: day5
-summary: "Resources for Day 5 training."
 sidebar: mydoc_sidebar
 permalink: day5.html
 folder: mydoc
+toc: false
 ---
 
 <style>
