@@ -1,5 +1,5 @@
 ---
-title: Day 1 - [Title]
+title: 🧪 Day 1 - Title
 tags: 
 keywords: day1
 summary: "Resources for Day 1 training."
@@ -20,8 +20,6 @@ margin-bottom: 10px;
 
 Location: [Location]
 Information: [Information]
-
-## 🧪 Day 1 - Title
 
 | Star  | End   | Activities | Speaker | Pres |
 |-------|-------|------------|---------|------|

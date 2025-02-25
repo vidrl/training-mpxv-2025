@@ -1,5 +1,5 @@
 ---
-title: Day 5 - [Title]
+title: 🦠 Day 5 - Title
 tags: 
 keywords: day5
 summary: "Resources for Day 5 training."
@@ -20,8 +20,6 @@ margin-bottom: 10px;
 
 Location: [Location]
 Information: [Information]
-
-## 🦠 Day 5 - Title
 
 | Star  | End   | Activities | Speaker | Pres |
 |-------|-------|------------|---------|------|

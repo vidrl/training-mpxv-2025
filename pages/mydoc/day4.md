@@ -1,5 +1,5 @@
 ---
-title: Day 4 - [Title]
+title: 🖥️ Day 4 - Title
 tags: 
 keywords: day4
 summary: "Resources for Day 4 training."
@@ -20,8 +20,6 @@ margin-bottom: 10px;
 
 Location: [Location]
 Information: [Information]
-
-## 🖥️ Day 4 - Title
 
 | Star  | End   | Activities | Speaker | Pres |
 |-------|-------|------------|---------|------|
