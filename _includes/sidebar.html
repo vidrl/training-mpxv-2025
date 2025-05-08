@@ -1,8 +1,8 @@
 {% assign sidebar = site.data.sidebars[page.sidebar].entries %}
 
 <ul id="mysidebar" class="nav">
-  <p><img src="images/vidrl.png" alt="Company logo"/></p>
-  <p><img src="images/cpg-logo.png" alt="Company logo"/></p>
+  <p><img src="images/vidrl.png" alt="Company logo"/><img src="images/cpg-logo.png" alt="Company logo" style="width:200px;"/></p>
+  
   {% for entry in sidebar %}
   {% for folder in entry.folders %}
   {% if folder.output contains "web" %}
