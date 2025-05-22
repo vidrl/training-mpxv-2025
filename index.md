@@ -1,5 +1,5 @@
 ---
-title: "VIDRL-CPG MPXV Training - June 2025"
+title: "Home"
 keywords: homepage
 tags: 
 sidebar: mydoc_sidebar
@@ -14,7 +14,7 @@ toc: false
 
 - [Galaxy](https://usegalaxy.org.au/login/start) Click Register here button down the bottom.
 
-Galaxy will be used for all bioinformatics analysis. Please register an account.
+Galaxy will be used for all bioinformatics analysis.
 
 ## Optional: Videos
 
