@@ -21,21 +21,16 @@ margin-bottom: 10px;
 - Location: [Location]
 - Information: [Information]
 
-| Star  | End   | Activities | Speaker | Pres |
-|-------|-------|------------|---------|------|
-| 09:00 | 09:10 | Title | Name |     |
-| 09:10 | 09:45 | Title | Name | PDF |
-| 09:45 | 10:15 | Title | Name | PDF |
-| 10:15 | 10:45 | Title |      |     |
-| 10:45 | 11:00 | Title | Name | PDF |
-| 11:00 | 11:30 | Title | Name | PDF |
-| 11:30 | 12:00 | Title | Name | PDF |
-| 12:00 | 13:00 | Title |      |     |
-| 13:00 | 13:30 | Title | Name | PDF |
-| 13:30 | 14:30 | Title | Name | PDF |
-| 14:30 | 15:15 | Title | Name | PDF |
-| 15:15 | 15:45 | Title | Name | PDF |
-| 15:45 | 16:15 | Title |      | PDF |
-| 16:15 | 17:15 | Title | Name | PDF |
-| 17:15 | 17:30 | Title | Name | PDF |
+| **Time**         | **Activity**                                         | **Presenter**  |
+|------------------|-----------------------------------------------------|-----------------|
+| 9:00 – 9:30      | Wet lab and Bioinfo recap.                         |                 |
+| 9:30 – 10:30     | Lecture: Introduction to genomic epidemiology       |                 |
+| 10:30 – 11:00    | Morning tea                                        |                 |
+| 11:00 – 11:45    | Lecture: Public health response to mpox            | Alicia          |
+| 11:45 – 12:30    | Lecture: TBC                                       | Jean            |
+| 12:30 – 13:30    | Lunch                                              |                 |
+| 13:30 – 15:30    | Lecture: Wastewater detection                       |                 |
+| 15:30 – 16:00    | Afternoon tea                                      |                 |
+| 16:00 – 17:00    | Group discussion: Opportunity for Q&A, training wrap up |                 |
+
 
