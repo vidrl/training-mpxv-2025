@@ -23,6 +23,6 @@ Watch the following videos to prepare yourself for the workshop:
 - [The utility of pathogen genomics - mpox](https://www.youtube.com/watch?v=QsjUlTxPmww)
 - [A brief history of Computional Biology and Sequencing](https://youtu.be/idl6oq-MxbM?si=A3ShRWdwoVkjgXqk&t=575)
 
-### Optional Publication:
+## Optional: Publication:
 - [Twenty years of bacterial genome sequencing](https://www.nature.com/articles/nrmicro3565) - Discusses the history of sequencing technology
 - [So you want to be a computational biologist?](https://www.nature.com/articles/nbt.2740) - Advice from two Bioinformaticians
