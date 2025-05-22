@@ -21,21 +21,19 @@ margin-bottom: 10px;
 - Location: [Location]
 - Information: [Information]
 
-
-| Star  | End   | Activities | Speaker | Pres |
-|-------|-------|------------|---------|------|
-| 09:00 | 09:10 | Title | Name |     |
-| 09:10 | 09:45 | Title | Name | PDF |
-| 09:45 | 10:15 | Title | Name | PDF |
-| 10:15 | 10:45 | Title |      |     |
-| 10:45 | 11:00 | Title | Name | PDF |
-| 11:00 | 11:30 | Title | Name | PDF |
-| 11:30 | 12:00 | Title | Name | PDF |
-| 12:00 | 13:00 | Title |      |     |
-| 13:00 | 13:30 | Title | Name | PDF |
-| 13:30 | 14:30 | Title | Name | PDF |
-| 14:30 | 15:15 | Title | Name | PDF |
-| 15:15 | 15:45 | Title | Name | PDF |
-| 15:45 | 16:15 | Title |      | PDF |
-| 16:15 | 17:15 | Title | Name | PDF |
-| 17:15 | 17:30 | Title | Name | PDF |
+| **Time**         | **Activity**                                         | **Presenter**  |
+|------------------|-----------------------------------------------------|-----------------|
+| 9:00 – 9:10      | Recap and the day's activities                      | Ammar           |
+| 9:10 – 9:30      | 5 - Lecture - QC of consensus sequences             | Kristy          |
+| 9:30 – 10:00     | 5 - Hands on - QC on consensus sequences            | Kristy          |
+| 10:00 – 10:30    | Morning tea                                        |                 |
+| 10:30 – 11:00    | 6 - Lecture - Introduction to Nextclade            | Kristy          |
+| 11:00 – 11:30    | 6 - Hands on - Nextclade for Lineages and QC      | Kristy          |
+| 11:00 – 12:00    | Hands-on: Using public genomic databases            | Ammar           |
+| 12:00 – 13:00    | Lunch                                              |                 |
+| 13:00 – 13:30    | Lecture: Introduction to phylogenetics             | Wytamma         |
+| 13:30 – 14:00    | Demo: Constructing a Phylogenetic Tree             | Wytamma         |
+| 14:00 – 14:30    | Tutorial: Introduction to Nextstrain               | Wytamma         |
+| 14:30 – 15:00    | Afternoon tea                                      |                 |
+| 15:00 – 17:00    | Hands-on: MPXV Phylogenetics                       | Wytamma         |
+| 17:00 – 17:10    | Wrap up                                            | MC              |
