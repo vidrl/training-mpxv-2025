@@ -10,30 +10,19 @@ toc: false
 
 {% include note.html content="Please read the Precourse section to ensure you are ready for the workshop" %}
 
-## Software
+# Register an account - IMPORTANT:
 
-Please make sure you install the following software before you start:
+- [Galaxy](https://usegalaxy.org.au/login/start) Click Register here button down the bottom.
 
-- Link 1
-- Link 2
+Galaxy will be used for all bioinformatics analysis. Please register an account.
 
-## Videos
+## Optional: Videos
 
 Watch the following videos to prepare yourself for the workshop:
 
-- Video 1
-- Video 2
+- [The utility of pathogen genomics - mpox](https://www.youtube.com/watch?v=QsjUlTxPmww)
+- [A brief history of Computional Biology and Sequencing](https://youtu.be/idl6oq-MxbM?si=A3ShRWdwoVkjgXqk&t=575)
 
-## Data
-
-Please download the following files for the course - save on your desktop by `Right Clicking` on the link, then select `Save Link` or `Download`:
-
-- Data 1
-- Data 2
-
-# Register an account:
-
-Create an account for the following online database/services:
-
-- [NCBI](https://account.ncbi.nlm.nih.gov/signup/) Select more signup options, search for your institution.
-- [Galaxy](https://usegalaxy.org.au/login/start) Click Register here button down the bottom
+### Optional Publication:
+- [Twenty years of bacterial genome sequencing](https://www.nature.com/articles/nrmicro3565) - Discusses the history of sequencing technology
+- [So you want to be a computational biologist?](https://www.nature.com/articles/nbt.2740) - Advice from two Bioinformaticians
