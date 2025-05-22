@@ -21,21 +21,16 @@ margin-bottom: 10px;
 - Location: [Location]
 - Information: [Information]
 
-
-| Star  | End   | Activities | Speaker | Pres |
-|-------|-------|------------|---------|------|
-| 09:00 | 09:10 | Title | Name |     |
-| 09:10 | 09:45 | Title | Name | PDF |
-| 09:45 | 10:15 | Title | Name | PDF |
-| 10:15 | 10:45 | Title |      |     |
-| 10:45 | 11:00 | Title | Name | PDF |
-| 11:00 | 11:30 | Title | Name | PDF |
-| 11:30 | 12:00 | Title | Name | PDF |
-| 12:00 | 13:00 | Title |      |     |
-| 13:00 | 13:30 | Title | Name | PDF |
-| 13:30 | 14:30 | Title | Name | PDF |
-| 14:30 | 15:15 | Title | Name | PDF |
-| 15:15 | 15:45 | Title | Name | PDF |
-| 15:45 | 16:15 | Title |      | PDF |
-| 16:15 | 17:15 | Title | Name | PDF |
-| 17:15 | 17:30 | Title | Name | PDF |
+| **Time**         | **Activity**                                         | **Presenter**  |
+|------------------|-----------------------------------------------------|-----------------|
+| 9:00 – 9:10      | Review of Day 1                                    | Jean            |
+| 9:10 – 10:00     | Lab: Amplicon QC                                   | Louise          |
+| 10:00 – 10:30    | Morning tea                                        |                 |
+| 10:30 – 12:30    | Lab: Library Preparation & Loading                  |                 |
+| 12:30 – 13:30    | Lunch                                              |                 |
+| 13:30 – 14:15    | Lab: Flow cell loading practice and Run Reviewing   | Louise          |
+| 14:15 – 14:30    | Review of laboratory workflow                       | Jean            |
+| 14:45 – 15:30    | Lecture: TBC                                       | Jean/Louise     |
+| 15:30 – 16:00    | Afternoon tea                                      |                 |
+| 16:00 – 16:30    | Lecture: Illumina Sequencing Mpox options          | Jean            |
+| 16:30 – 17:00    | Group discussion: Opportunity for Q&A and further discussion | Nicole          |
