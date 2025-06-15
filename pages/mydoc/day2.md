@@ -18,8 +18,8 @@ margin-bottom: 10px;
 }
 </style>
 
-- Location: [Location]
-- Information: [Information]
+- Location: Teaching Lab, Doherty Institute
+
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** | **PowerPoint** |
 |------------------|-----------------------------------------------------|-----------------|---------|----------------|
