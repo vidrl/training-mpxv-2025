@@ -13,6 +13,7 @@ toc: false
 # Register an account - IMPORTANT:
 
 - [Galaxy](https://usegalaxy.org.au/login/start) Click Register here button down the bottom.
+- **[Click this link to join the Galaxy training instance.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/)**
 
 Galaxy will be used for all bioinformatics analysis.
 
