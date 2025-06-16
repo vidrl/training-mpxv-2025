@@ -18,8 +18,13 @@ margin-bottom: 10px;
 }
 </style>
 
-- Location: [Location]
-- Information: [Information]
+{% include note.html content="Please join the Galaxy training instance - see link below." %}
+
+
+- Location: [Room 111, Level 1, Alan Gilbert Building](https://maps.unimelb.edu.au/point?identifier=PAR;104;1;111)
+- Information:
+  - Ensure you have registered for a Galaxy account.
+  - IMPORTANT [Click on this link to join the Galaxy training server.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/) 
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** | **PowerPoint** |
 |------------------|-----------------------------------------------------|-----------------|---------|----------------|
