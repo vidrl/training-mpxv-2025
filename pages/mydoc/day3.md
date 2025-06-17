@@ -37,7 +37,7 @@ margin-bottom: 10px;
 | 11:30 – 12:30    | 3 - Hands-on: Quality control of NGS data          | Himal           | PDF     |
 | 12:30 – 13:30    | Lunch                                              |                 |      |
 | 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%204%20-%20Principles%20of%20genome%20assembly.pdf)     |
-| 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | PDF     |
+| 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%204%20-%20Tutorial%20-%20Finding%20and%20using%20galaxy%20workflows.pdf)     |
 | 14:30 – 15:00    | Afternoon tea                                      |                 |      |
 | 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | PDF     |
 | 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar          | PDF     | 
