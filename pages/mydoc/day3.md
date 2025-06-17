@@ -28,7 +28,7 @@ margin-bottom: 10px;
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** |
 |------------------|-----------------------------------------------------|-----------------|---------|
-| 9:00 – 9:30      | 1 - Lecture: Introduction to Bioinformatics        | Torsten         | PDF     |
+| 9:00 – 9:30      | 1 - Lecture: Introduction to Bioinformatics        | Torsten         | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/1_Intro%20to%20bioinformatics.pdf)     |
 | 9:30 – 10:30     | 2 - Lecture: Introduction to Galaxy                | Gayle           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/2_Galaxy_Australia_Introduction_Doherty.compressed.pdf)     |
 | 10:30 – 11:00    | 2a - Hands-on: Galaxy                               | Gayle          | PDF     |
 | 10:30 – 11:00    | Morning tea                                        |                 |       |
