@@ -33,7 +33,7 @@ margin-bottom: 10px;
 | 9:30 – 10:30     | 2 - Lecture: Introduction to Galaxy                | Gayle           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/2_Galaxy_Australia_Introduction_Doherty.compressed.pdf)     |
 | 10:30 – 11:00    | 2a - Hands-on: Galaxy                               | Gayle          | PDF     |
 | 10:30 – 11:00    | Morning tea                                        |                 |       |
-| 11:00 – 11:30    | 3 - Lecture: Quality control of NGS data           | Himal           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%203%20-%20QC%20of%20NGS%20data_edited.pdf)     |
+| 11:00 – 11:30    | 3 - Lecture: Quality control of NGS data           | Himal           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%203%20-%20QC%20of%20NGS%20data_edited_v2.pdf)     |
 | 11:30 – 12:30    | 3 - Hands-on: Quality control of NGS data          | Himal           | PDF     |
 | 12:30 – 13:30    | Lunch                                              |                 |      |
 | 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%204%20-%20Principles%20of%20genome%20assembly.pdf)     |
