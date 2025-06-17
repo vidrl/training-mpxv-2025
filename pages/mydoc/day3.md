@@ -24,7 +24,8 @@ margin-bottom: 10px;
 - Location: [Room 111, Level 1, Alan Gilbert Building](https://maps.unimelb.edu.au/point?identifier=PAR;104;1;111)
 - Information:
   - Ensure you have registered for a Galaxy account.
-  - IMPORTANT [Click on this link to join the Galaxy training server.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/) 
+  - IMPORTANT [Click on this link to join the Galaxy training server.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/)
+  - **IMPORTANT**
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** |
 |------------------|-----------------------------------------------------|-----------------|---------|
@@ -35,7 +36,7 @@ margin-bottom: 10px;
 | 11:00 – 11:30    | 3 - Lecture: Quality control of NGS data           | Himal           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%203%20-%20QC%20of%20NGS%20data_edited.pdf)     |
 | 11:30 – 12:30    | 3 - Hands-on: Quality control of NGS data          | Himal           | PDF     |
 | 12:30 – 13:30    | Lunch                                              |                 |      |
-| 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | PDF     |
+| 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%204%20-%20Principles%20of%20genome%20assembly.pdf)     |
 | 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | PDF     |
 | 14:30 – 15:00    | Afternoon tea                                      |                 |      |
 | 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | PDF     |
