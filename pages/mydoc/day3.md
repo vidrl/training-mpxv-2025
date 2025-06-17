@@ -26,18 +26,18 @@ margin-bottom: 10px;
   - Ensure you have registered for a Galaxy account.
   - IMPORTANT [Click on this link to join the Galaxy training server.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/) 
 
-| **Time**         | **Activity**                                         | **Presenter**  | **PDF** | **PowerPoint** |
-|------------------|-----------------------------------------------------|-----------------|---------|----------------|
-| 9:00 – 9:30      | 1 - Lecture: Introduction to Bioinformatics        | Torsten         | PDF     | PPTX           |
-| 9:30 – 10:30     | 2 - Lecture: Introduction to Galaxy                | Gayle           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/2_Galaxy_Australia_Introduction_Doherty.compressed.pdf)     | PPTX           |
-| 10:30 – 11:00    | 2a - Hands-on: Galaxy                               | Gayle           | PDF     | PPTX           |
-| 10:30 – 11:00    | Morning tea                                        |                 | PDF     | PPTX           |
-| 11:00 – 11:30    | 3 - Lecture: Quality control of NGS data           | Himal           | PDF     | PPTX           |
-| 11:30 – 12:30    | 3 - Hands-on: Quality control of NGS data          | Himal           | PDF     | PPTX           |
-| 12:30 – 13:30    | Lunch                                              |                 | PDF     | PPTX           |
-| 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | PDF     | PPTX           |
-| 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | PDF     | PPTX           |
-| 14:30 – 15:00    | Afternoon tea                                      |                 | PDF     | PPTX           |
-| 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | PDF     | PPTX           |
-| 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar           | PDF     | PPTX           |
-| 17:00 – 17:10    | Wrap up                                            | MC              | PDF     | PPTX           |
+| **Time**         | **Activity**                                         | **Presenter**  | **PDF** |
+|------------------|-----------------------------------------------------|-----------------|---------|
+| 9:00 – 9:30      | 1 - Lecture: Introduction to Bioinformatics        | Torsten         | PDF     |
+| 9:30 – 10:30     | 2 - Lecture: Introduction to Galaxy                | Gayle           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/2_Galaxy_Australia_Introduction_Doherty.compressed.pdf)     |
+| 10:30 – 11:00    | 2a - Hands-on: Galaxy                               | Gayle          | PDF     |
+| 10:30 – 11:00    | Morning tea                                        |                 | PDF     |
+| 11:00 – 11:30    | 3 - Lecture: Quality control of NGS data           | Himal           | PDF     |
+| 11:30 – 12:30    | 3 - Hands-on: Quality control of NGS data          | Himal           | PDF     |
+| 12:30 – 13:30    | Lunch                                              |                 | PDF     |
+| 13:30 – 14:00    | 4 - Lecture: Principles of genome assembly         | Ammar           | PDF     |
+| 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | PDF     |
+| 14:30 – 15:00    | Afternoon tea                                      |                 | PDF     |
+| 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | PDF     |
+| 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar          | PDF     | 
+| 17:00 – 17:10    | Wrap up                                            | MC              | PDF     |
