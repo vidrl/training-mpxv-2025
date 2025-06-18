@@ -1,5 +1,5 @@
 ---
-title: 🖥️ Day 4 - Title
+title: 🖥️ Day 4 - Trees, Trees, and QC
 tags: 
 keywords: day4
 sidebar: mydoc_sidebar
