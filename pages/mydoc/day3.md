@@ -25,6 +25,7 @@ margin-bottom: 10px;
 - Information:
   - Ensure you have registered for a Galaxy account.
   - IMPORTANT [Click on this link to join the Galaxy training server.](https://usegalaxy.org.au/join-training/vidrl-cpg-mpxv-2025/)
+  - IMPORTANT - [Go here for the tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** |
 |------------------|-----------------------------------------------------|-----------------|---------|
