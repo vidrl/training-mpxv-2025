@@ -46,6 +46,7 @@ margin-bottom: 10px;
 IMPORTANT: [Data for QC - Galaxy History](https://usegalaxy.org.au/u/aaziz/h/mpxv-training-dataset)
 
 Accessing your data:
+
 | Group A | Group B | [Group C](https://usegalaxy.org.au/u/aaziz/h/group-c) | [Group D](https://usegalaxy.org.au/u/aaziz/h/group-d) | [Group E](https://usegalaxy.org.au/u/aaziz/h/group-e) | [Group F](https://usegalaxy.org.au/u/aaziz/h/group-f) |
 |---------|---------|---------|---------|---------|---------|
 |         | OS      | PP      | FH      | SP      | SP      |
