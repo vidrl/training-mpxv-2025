@@ -40,8 +40,8 @@ margin-bottom: 10px;
 | 14:00 – 14:30    | 4 - Tutorial: Finding and using Galaxy Workflows   | Ammar           | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/Lecture%204%20-%20Tutorial%20-%20Finding%20and%20using%20galaxy%20workflows.pdf)     |
 | 14:30 – 15:00    | Afternoon tea                                      |                 |      |
 | 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | [PDF](https://github.com/vidrl/training-mpxv-2025/raw/refs/heads/main/pdf/Lecture%205%20-%20MPXV%20genome%20assembly%20workflow.pdf)     |
-| 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar          | PDF     | 
-| 17:00 – 17:10    | Wrap up                                            | MC              | PDF     |
+| 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar          |       | 
+| 17:00 – 17:10    | Wrap up                                             | MC             |       |
 
 IMPORTANT: [Data for QC - Galaxy History](https://usegalaxy.org.au/u/aaziz/h/mpxv-training-dataset)
 
