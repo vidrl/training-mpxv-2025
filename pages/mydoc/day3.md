@@ -42,3 +42,5 @@ margin-bottom: 10px;
 | 15:00 – 15:30    | 5 - Lecture: Overview of MPXV workflow             | Ammar           | [PDF](https://github.com/vidrl/training-mpxv-2025/raw/refs/heads/main/pdf/Lecture%205%20-%20MPXV%20genome%20assembly%20workflow.pdf)     |
 | 15:30 – 17:00    | 5 - Hands-on: MPXV genome assembly workflow         | Ammar          | PDF     | 
 | 17:00 – 17:10    | Wrap up                                            | MC              | PDF     |
+
+IMPORTANT: [Data for QC - Galaxy History](https://usegalaxy.org.au/u/aaziz/h/mpxv-training-dataset)
