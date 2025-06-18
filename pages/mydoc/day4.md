@@ -19,7 +19,13 @@ margin-bottom: 10px;
 </style>
 
 - Location: [Location]
-- Information: [Information]
+- Information: 
+  - Rerun your samples with new inputs. Use 'fetch' method in galaxy upload:
+```
+https://cdn.oxfordnanoportal.com/software/analysis/models/clair3/r1041_e82_400bps_sup_v430.tar.gz
+https://raw.githubusercontent.com/quick-lab/primerschemes/refs/heads/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/reference.fasta
+https://raw.githubusercontent.com/quick-lab/primerschemes/refs/heads/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/primer.bed
+```
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** | **PowerPoint** |
 |------------------|-----------------------------------------------------|-----------------|---------|----------------|
