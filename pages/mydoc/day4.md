@@ -43,3 +43,6 @@ https://raw.githubusercontent.com/quick-lab/primerschemes/refs/heads/main/primer
 | 14:30 – 15:00    | Afternoon tea                                      |                 |      | 
 | 15:00 – 17:00    | Hands-on: MPXV Phylogenetics                       | Wytamma         | PDF     |
 | 17:00 – 17:10    | Wrap up                                            | MC              | PDF     |
+
+Nextclade work around:
+https://colab.research.google.com/drive/1upJsh0_V4oKHPB7v825BUg2HYf9OvbUh?usp=sharing
