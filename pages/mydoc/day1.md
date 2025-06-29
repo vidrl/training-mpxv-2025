@@ -21,6 +21,7 @@ margin-bottom: 10px;
 ---
 
 - Location: Teaching Lab, Doherty Institute
+- Run info: [Download link (Right Click, Save As)](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/OneDrive_1_30-06-2025.zip)
 ---
 
 | **Time**         | **Activity**                                         | **Presenter**  | **PDF** | **PowerPoint** |
