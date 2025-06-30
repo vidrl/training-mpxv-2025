@@ -21,6 +21,7 @@ margin-bottom: 10px;
 - Location: Teaching Lab, Doherty Institute
 - Run info: [Download link (Right Click, Save As)](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/OneDrive_1_30-06-2025.zip)
 - Wetlab protocol: [Download link (Right Click, Save As)](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/VIDRL_ONT%20Mpox%20Protocol_Wetlab_%20training_2025.pdf)
+- Extra documents and SOPs: [Download link (Right Click, Save As)](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/refs/heads/main/pdf/wetlab/OneDrive_2025-06-30.zip)
 
 ---
 
