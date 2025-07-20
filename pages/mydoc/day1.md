@@ -38,7 +38,7 @@ margin-bottom: 10px;
 | 11:00 – 11:30    | Lecture: Introduction to mpox genomics at VIDRL   | Jean            | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/21e5a17af1dc33c47696b471b2c27a455ed456a3/pdf/wetlab/3_Mpox%20Wet%20Lab%20Day%201_INTRODUCTION%20TO%20MPOX%20GENOMICS.pdf)     |
 | 11:30 – 12:30    | Lecture: Tiled amplicon Mpox/viral theory          | Jean            | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/21e5a17af1dc33c47696b471b2c27a455ed456a3/pdf/wetlab/4_Mpox%20Wet%20Lab%20Day%201_Tiled%20Amp_LECTURE.pdf)     |
 | 12:30 – 13:30    | Lunch                                              |                 |      |
-| 13:30 – 15:30    | Lab: Tiled amplicon PCR                            | Louise          |      |
+| 13:30 – 15:30    | Lab: Tiled amplicon PCR                            | Louise          |   [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/e1c97f9fd0b4febe75ac7f2d4f226f019e20ad38/pdf/wetlab/5_Mpox%20Wet%20Lab%20Day%201_tiled%20amplicon%20PCR_lab-1.pdf)   |
 | 15:30 – 16:00    | Afternoon tea                                      |                 |      |
 | 16:00 – 16:30    | Lecture: Introduction to ONT sequencing viruses     | Louise          | [PDF](https://raw.githubusercontent.com/vidrl/training-mpxv-2025/21e5a17af1dc33c47696b471b2c27a455ed456a3/pdf/wetlab/6_Mpox%20Wet%20Lab%20Day%201_ONT%20sequencing.pdf)     |
 | 16:30 – 17:00    | Group discussion: Opportunity for Q&A and further discussion | Nicole          |      |
